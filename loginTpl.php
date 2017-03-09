@@ -9,7 +9,7 @@
   <body>
     <div class="container" style="border: 2px dashed black">
       <h1 class="text-center"><i>Login Page</i></h1>
-      <form class="form-group" action="dataLog.php" method="post">
+      <form class="form-group" action="database.php" method="post">
         <input style="width: 350px" class="form-control" type="text" name="user" value="" placeholder="Type username ...">
         <input style="width: 350px" class="form-control" type="text" name="password" value="" placeholder="Type your password ...">
         <br />
