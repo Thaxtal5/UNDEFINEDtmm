@@ -1,6 +1,6 @@
 <?php
 
-include "signUTpl.php";
+include "signUpTpl.php";
 
 if ($_SERVER['REQUEST_METHOD'] === 'post') {
   # code...
