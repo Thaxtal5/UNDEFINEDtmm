@@ -11,7 +11,8 @@
       <h1 class="text-center"><i>Login Page</i></h1>
       <form class="form-group" action="dataLog.php" method="post">
         <input style="width: 350px" class="form-control" type="text" name="user" value="" placeholder="Type username ...">
-        <input style="width: 350px" class="form-control" type="text" name="password" value="" placeholder="Type your password ...">
+        <input style="width: 350px" class="form-control" type="text" name="p1" value="" placeholder="Type your password ...">
+        <input style="width: 350px" class="form-control" type="text" name="p2" value="" placeholder="Repeat your password ...">
         <br />
         <button class="btn btn-success" type="submit">Log in</button>
         <button class="btn btn-danger" type="delete">Delete</button>
